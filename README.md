@@ -3,7 +3,7 @@
 <h2>🖥️ Information Technology Projects🖥</h2>
 
 - <b> osTicket: for Help Desk </b>
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joeljjoseph1998/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/JasminB-14/osTicket-Tickets)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/joeljjoseph1998/azure-network-protocols)
 - <b>Virtual Private Network</b>
