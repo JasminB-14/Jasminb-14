@@ -5,7 +5,7 @@
 - <b> osTicket: for Help Desk </b>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JasminB-14/osTicket-Tickets)
 - <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/joeljjoseph1998/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/JasminB-14/azure-network-protocols/blob/main/README.md)
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine ](https://github.com/joeljjoseph1998/Setting-UP-A-VPN)
 
