@@ -7,7 +7,7 @@
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/JasminB-14/azure-network-protocols/blob/main/README.md)
 - <b>Virtual Private Network</b>
-  - [VPN Setup in Virtual Machine ](https://github.com/joeljjoseph1998/Setting-UP-A-VPN)
+  - [VPN Setup in Virtual Machine ](https://github.com/JasminB-14/VPN-Setup-in-Virtual-Machine/blob/main/README.md)
 
 <h2>📩Contact Me</h2>
 
