@@ -11,11 +11,9 @@
 <h2>🖥️ Information Technology Projects🖥</h2>
 
 - <b> osTicket: for Help Desk </b>
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/JasminB-14/osTicket-Tickets)
+  - [osTicket: Ticket Lifecycle](https://github.com/JasminB-14/osTicket-Tickets)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JasminB-14/azure-network-protocols/blob/main/README.md)
-- <b>Virtual Private Network</b>
-  - [VPN Setup in Virtual Machine ](https://github.com/JasminB-14/VPN-Setup-in-Virtual-Machine/blob/main/README.md)
 
 <h2>📩Contact Me <img align="center" alt="Jasmin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></h2>
 
